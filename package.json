@@ -2,7 +2,7 @@
   "name": "deployed-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://fabroche.github.io/deployed-app",
+  "homepage": "https://fabroche.github.io/deployed-app",
   "type": "module",
   "scripts": {
     "predeploy":"npm run build",
